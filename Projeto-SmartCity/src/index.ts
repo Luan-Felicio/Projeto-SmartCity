@@ -15,7 +15,7 @@ const produto3 = new Produto("3", "Notebook", 5000.0, "Notebook Gamer", categori
 // Lista de produtos
 const todosOsProdutos = [produto1, produto2, produto3];
 
-// Filtrar produtos da categoria Eletrônicos
+// Filtrando produtos
 const produtosEletronicos = categoriaEletronicos.listarProdutosPorCategoria(todosOsProdutos);
 
 console.log("Produtos da categoria Eletrônicos:");
