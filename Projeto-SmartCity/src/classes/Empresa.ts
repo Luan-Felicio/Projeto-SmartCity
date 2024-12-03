@@ -1,4 +1,4 @@
-import {Produto} from "./Produto";
+import { Produto } from "./Produto";
 
 export class Empresa {
   private nome: string;

@@ -1,5 +1,5 @@
-import {Categoria} from "./Categoria";
-import {Empresa} from "./Empresa";
+import { Empresa } from "./Empresa";
+import { Categoria } from "./Categoria";
 
 export class Produto {
   private id: string;
